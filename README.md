@@ -1,5 +1,7 @@
 # Route Planning Project
+
 This project is a part of Udacity C++ Nanodegree
+
 <img src="map.png" width="600" height="450" />
 
 ## Cloning
